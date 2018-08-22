@@ -23,12 +23,13 @@
   * 石綿さんハウスで展開中
   * 24V電源を使用しているため、テンシオメータ単体でモニタしたい場合に電源確保が課題
 * 海外の事例でArduinoでテンシオメータを使った事例
-  * https://www.agroengineering.org/.../view/jae.2013.e16/459
+  * https://www.agroengineering.org/index.php/jae/article/view/jae.2013.e16/459
 
 *アザミウマ等害虫向け防除マット*
 * [アザミウマの(化学的な)農薬を使わない防除方法](https://inakasensei.com/azamiuma-kuzyohouhou)
 * [ホリバー：高性能粘着トラップ（イエロー・ブルー）](http://www.arystalifescience.jp/catalog/p_horiver.php)
   * 特に青はジェネリックと比較して性能が良いらしい(ブラックライトを当てると光るかも)
+* 1シーズン毎に更新。指標としているトラップについては1週間(10日?)で交換
 
 *地域の日射量を知る方法*
 * [箕輪町の気象データ一例](http://kisho.town.minowa.nagano.jp/weather_day.aspx?place=3&Target)
